@@ -8,6 +8,7 @@
 	</parent>
 	<artifactId>super-diamond-server</artifactId>
 	<packaging>jar</packaging>
+	<name>super-diamond-server</name>
 	
 	<dependencies>
 		<dependency>
